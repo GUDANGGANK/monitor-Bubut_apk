@@ -1,0 +1,6 @@
+{
+  "appId": "com.DJT.monitorbubut",
+  "appName": "Monitor Bubut",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
